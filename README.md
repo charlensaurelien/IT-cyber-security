@@ -1,10 +1,10 @@
-# Hi, I’m Charlens Aurélien 👋
+# Hi, I’m Charlens Aurélien 
 
 I am an IT professional completing an associate degree in cybersecurity at Southern Maine Community College. I recently earned my CompTIA Network+ certification and enjoy building practical skills through hands-on IT projects.
 
 ---
 
-## 🎓 Education
+##  Education
 
 Associate Degree in Cybersecurity  
 Southern Maine Community College  
@@ -12,13 +12,17 @@ Currently completing
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 CompTIA Network+
 
+CompTIA Security+(planned)
+
+CCNA(planned)
+
 ---
 
-## 💻 IT Projects
+## IT Projects
 
 ### Enterprise Network Lab
 
@@ -34,7 +38,7 @@ Troubleshot hardware, software, printers, and network connectivity issues.
 
 ### PowerShell Scripting
 
-Developed a script to check printer status and assist with common troubleshooting tasks.
+AI-Powered IT Support Automation Project: A script to check printer status and assist with common troubleshooting tasks.    https://github.com/users/charlensaurelien/projects/2/settings
 
 ### Cybersecurity Labs
 
@@ -42,7 +46,7 @@ Practiced network monitoring and security analysis using Wireshark, Nmap, and Sp
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Networking:** Routing, switching, VLANs, DHCP, DNS, and Wi-Fi troubleshooting.
 
