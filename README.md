@@ -34,7 +34,7 @@ Troubleshot hardware, software, printers, and network connectivity issues.
 
 ### PowerShell Scripting
 
-Developed beginner-friendly scripts to check printer status and assist with common troubleshooting tasks.
+Developed a script to check printer status and assist with common troubleshooting tasks.
 
 ### Cybersecurity Labs
 
