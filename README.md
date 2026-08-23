@@ -1,24 +1,63 @@
-Hi, I’m Charlens Aurélien 👋
+# Hi, I’m Charlens Aurélien 👋
 
-I am an IT professional currently completing an associate degree in cybersecurity at Southern Maine Community College. I recently earned my CompTIA Network+ certification and enjoy developing practical skills through hands-on projects in networking, cybersecurity, and technical support.
+I am an IT professional completing an associate degree in cybersecurity at Southern Maine Community College. I recently earned my CompTIA Network+ certification and enjoy building practical skills through hands-on IT projects.
 
-Certifications
+---
+
+## 🎓 Education
+
+Associate Degree in Cybersecurity  
+Southern Maine Community College  
+Currently completing
+
+---
+
+## 📜 Certifications
+
 CompTIA Network+
-IT Projects
-Enterprise Network Lab: Configured VLANs, routing, DHCP, DNS, and network security using Cisco Packet Tracer.
-Active Directory Lab: Managed user accounts, groups, passwords, and Group Policy.
-IT Support and Troubleshooting: Practiced resolving hardware, software, printer, and network connectivity issues.
-PowerShell Projects: Developed beginner-friendly scripts for troubleshooting and monitoring IT systems.
-Cybersecurity Labs: Practiced network monitoring and security analysis using Wireshark, Nmap, and Splunk.
-Technical Skills
-Network configuration and troubleshooting
-VLANs, routing, switching, DHCP, and DNS
-Active Directory and user account management
-Windows administration and desktop support
-Hardware, software, and printer troubleshooting
-PowerShell, Python, and Bash scripting
-Network security and cybersecurity fundamentals
-Career Interests
 
-I am interested in entry-level IT support, help desk, network technician, and cybersecurity opportunities. My long-term goal is to become a network engineer.
+---
 
+## 💻 IT Projects
+
+### Enterprise Network Lab
+
+Configured VLANs, routing, switching, DHCP, DNS, and network security using Cisco Packet Tracer.
+
+### Active Directory Lab
+
+Created and managed user accounts, groups, passwords, and Group Policy settings.
+
+### Technical Support Practice
+
+Troubleshot hardware, software, printers, and network connectivity issues.
+
+### PowerShell Scripting
+
+Developed beginner-friendly scripts to check printer status and assist with common troubleshooting tasks.
+
+### Cybersecurity Labs
+
+Practiced network monitoring and security analysis using Wireshark, Nmap, and Splunk.
+
+---
+
+## 🛠️ Technical Skills
+
+**Networking:** Routing, switching, VLANs, DHCP, DNS, and Wi-Fi troubleshooting.
+
+**System Administration:** Active Directory, Windows administration, user account management, and Group Policy.
+
+**IT Support:** Hardware and software troubleshooting, printer support, desktop deployment, and connectivity issues.
+
+**Scripting:** PowerShell, Python, and Bash.
+
+**Cybersecurity:** Network security, traffic analysis, vulnerability scanning, and security monitoring.
+
+---
+
+## 🎯 Career Interests
+
+I am interested in opportunities in IT support, help desk, network administration, and cybersecurity.
+
+My long-term goal is to become a network engineer.
