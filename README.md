@@ -26,7 +26,7 @@ CCNA(planned)
 
 ### Enterprise Network Lab
 
-Configured VLANs, routing, switching, DHCP, DNS, and network security using Cisco Packet Tracer.
+Configured VLANs, routing, switching, DHCP, DNS, and network security using Cisco Packet Tracer.https://github.com/users/charlensaurelien/projects/3/settings
 
 ### Active Directory Lab
 
